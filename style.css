@@ -108,6 +108,17 @@ h2 a {
         background-repeat: no-repeat;
     }
     
+    img {
+        width: 100px;
+        height: auto;
+    }
+    
+    #ioheader {
+    padding: 30px;
+    background-color: #e1fffa;
+    margin-bottom: 25px;
+
+    
 }
 
 .container {
