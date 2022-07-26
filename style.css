@@ -108,6 +108,7 @@ h2 a {
         background-repeat: no-repeat;
     }
     
+<<<<<<< HEAD
     img {
         width: 100px;
         height: auto;
@@ -118,6 +119,8 @@ h2 a {
     background-color: #e1fffa;
     margin-bottom: 25px;
 
+=======
+>>>>>>> parent of 415b8e1 (updated mobile styling)
 }
 
 .container {
