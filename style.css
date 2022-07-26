@@ -103,7 +103,7 @@ h2 a {
 
 @media screen and (max-width: 980px) {
     .outerContainer {
-        margin-top: 44px;
+        margin-top: 20px;
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -114,10 +114,8 @@ h2 a {
     }
     
     #ioheader {
-    padding: 30px;
-    background-color: #e1fffa;
-    margin-bottom: 25px;
-
+        margin-bottom: 20px;
+    }
     
 }
 
