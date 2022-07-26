@@ -103,7 +103,7 @@ h2 a {
 
 @media screen and (max-width: 980px) {
     .outerContainer {
-        margin-top: 0px;
+        margin-top: 44px;
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -119,8 +119,12 @@ h2 a {
     background-color: #e1fffa;
     margin-bottom: 25px;
 
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 415b8e1 (updated mobile styling)
+=======
+    
+>>>>>>> parent of ffa2b96 (mobile css correction 2)
 }
 
 .container {
