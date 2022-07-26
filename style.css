@@ -107,25 +107,19 @@ h2 a {
         background-size: cover;
         background-repeat: no-repeat;
     }
-    
-<<<<<<< HEAD
-    img {
+
+img {
         width: 100px;
         height: auto;
     }
     
-    #ioheader {
+#ioheader {
     padding: 30px;
     background-color: #e1fffa;
     margin-bottom: 25px;
-
-<<<<<<< HEAD
-=======
->>>>>>> parent of 415b8e1 (updated mobile styling)
-=======
     
->>>>>>> parent of ffa2b96 (mobile css correction 2)
-}
+ }
+
 
 .container {
     display: block;
